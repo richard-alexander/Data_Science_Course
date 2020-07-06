@@ -11,7 +11,8 @@ We will be using Colab for the rest of our modules, so sure that you have comple
   - If you don't see the sign in button, you may already be signed into your google account
 - Enter your google account information *--OR--* click **Create account** link to make a free account
 
-**Important**
+**Important:**
+
 If you wish to save progress, make sure you copy the notebook to your drive BEFORE you start working on it!
 
 # Lessons
