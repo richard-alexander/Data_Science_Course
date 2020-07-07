@@ -6,7 +6,7 @@ Now that we have brushed up on our Python skills, we will dive int Pandas! Panda
 
 We will be using Colab for the rest of our modules, so sure that you have completed the Colab setup from the previous module. Here are the instructions again if you haven't yet set it up:
 
-- Go to [https://colab.research.google.com](colab.research.google.com)
+- Go to [https://colab.research.google.com](https://colab.research.google.com)
 - In the top right corner click **Sign In** (big blue button)
   - If you don't see the sign in button, you may already be signed into your google account
 - Enter your google account information *--OR--* click **Create account** link to make a free account
