@@ -31,7 +31,7 @@ You can run a notebook cell two ways:
 
 # Homework
 
-- [Pandas homework 1](https://colab.research.google.com/github/richard-alexander/Data_Science_Course/blob/master/Pandas/Homework1.ipynb)
+- [Pandas homework 1](https://colab.research.google.com/github/cwood1967/Data_Science_Course/blob/master/Pandas/Homework1.ipynb)
 
 
 # Answers
