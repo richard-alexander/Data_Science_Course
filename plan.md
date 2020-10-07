@@ -1,4 +1,7 @@
 - Colab
+  - Need to have a google account
+  - [colab] (https://colab.research.google.com/ "Colab")
+  - [colab from github] (https://colab.research.google.com/github/cwood1967/Data_Science_Course/blob/cjw/Part_1_Introduction_to_Python.ipynb "Open from github in Colab")
   - open from link to github
   - save as copy into google drive
   - then make changes and save to google drive
