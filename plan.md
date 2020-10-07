@@ -1,0 +1,25 @@
+- Colab
+  - open from link to github
+  - save as copy into google drive
+  - then make changes and save to google drive
+- jupyter notebooks
+- python stuff
+  - the datacamp thing is very limited
+  - lists, tuples, dicts
+  - functions, packages
+  - numpy
+
+### Intro to python
+- indenting is important
+- data types
+- dynamic variables
+- lists
+- tuples
+- dictionaries
+- for loops
+- if, elif, else
+- functions
+- classes
+- other things
+  - datetime, time
+  - 
