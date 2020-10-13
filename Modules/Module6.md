@@ -22,4 +22,4 @@ You can run a notebook cell two ways:
 
 # Answers
 
-There are many correct ways to get the right answers. After you do the homework, take a look at the [answers]() and compare to yours!
+There are many correct ways to get the right answers. After you do the homework, take a look at the [answers](/Seaborn/Answers/Homework1.ipynb) and compare to yours!
