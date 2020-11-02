@@ -22,4 +22,4 @@ You can run a notebook cell two ways:
 
 # Answers
 
-There are many correct ways to get the right answers. After you do the homework, take a look at the [answers](https://github.com/richard-alexander/Data_Science_Course/blob/master/Seaborn/Answers/Homework1.ipynb/Seaborn/Answers/Homework2.ipynb) and compare to yours!
+There are many correct ways to get the right answers. After you do the homework, take a look at the [answers](https://github.com/richard-alexander/Data_Science_Course/blob/master/Seaborn/Answers/Homework2.ipynb) and compare to yours!
