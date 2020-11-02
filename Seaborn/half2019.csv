@@ -1,0 +1,712 @@
+,index,Place,Last Name,First Name,Company,Div,Time,Div Points,Medal Points,group
+0,0,1,Caprario,Nick,Populous,E,1:07:48.0,10,3,M30
+1,1,2,Albin,Addison,Kiewit,B,1:13:31.6,10,2,M30
+2,0,1,Estes,Jeremiah,Garmin International,A,1:13:35.4,10,3,M35
+3,0,1,Guthals,Nate,Farmers Insurance Group,B,1:14:02.9,10,3,M25
+4,0,1,Graham,William,Burns & McDonnell,A,1:15:16.7,10,3,M20
+5,2,3,Seifert,Matthew,Blue Cross and Blue Shield of Kansas City,B,1:18:18.1,8,1,M30
+6,1,2,Gallagher,Ethan,Cerner Corporation,A,1:18:28.7,10,2,M25
+7,0,1,Stegman,Matt,GlynnDevins Advertising and Marketing,F,1:18:46.7,10,3,M50
+8,0,1,Garey,Rick,Sprint,A,1:18:52.4,10,3,M45
+9,3,4,Jordan,Jeramey,"Pro Athlete, Inc.",I,1:19:13.2,10,0,M30
+10,0,1,Bonham,Mike,Commerce Bank,A,1:19:40.9,10,3,M40
+11,2,3,Ballou,Brooks,Garmin International,A,1:20:08.8,8,1,M25
+12,4,5,Perkins,Josh,YRC Freight,B,1:20:15.9,6,0,M30
+13,0,1,Regan,Amy,Garmin International,A,1:20:22.3,10,3,W25
+14,5,6,Camplin,Brendan,Hyland,E,1:21:00.9,8,0,M30
+15,1,2,Olsen,Brian,Children's Mercy Hospital,A,1:21:41.1,8,2,M40
+16,3,4,Harmon,Harrison,Burns & McDonnell,A,1:21:48.0,6,0,M25
+17,6,7,Krause,Davey,NorthPoint Development,F,1:23:03.9,10,0,M30
+18,4,5,Bachman,Jeff,Engaged Companies,F,1:23:19.3,10,0,M25
+19,0,1,Carreon,Chandler,Children's Mercy Hospital,A,1:24:20.6,10,3,W20
+20,1,2,Zuch,Bob,Garmin International,A,1:24:48.6,8,2,M45
+21,2,3,Craig,Ernie,Federal Reserve Bank of Kansas City,B,1:24:54.3,10,1,M40
+22,3,4,Larson,Brent,Burns & McDonnell,A,1:25:27.8,6,0,M40
+23,7,8,Balough,Jimmy,Black & Veatch,A,1:25:28.5,10,0,M30
+24,1,2,Weseloh,Christopher,ScriptPro LLC,C,1:25:28.6,10,2,M35
+25,8,9,Keenan,Michael,Creative Planning,E,1:25:54.5,6,0,M30
+26,2,3,Vidrine,Drake,nbkc bank,E,1:25:56.3,10,1,M45
+27,9,10,Loeb,Jordan,Farmers Insurance Group,B,1:26:04.1,5,0,M30
+28,4,5,Shook,Robin,Children's Mercy Hospital,A,1:26:20.9,5,0,M40
+29,5,6,Wood,Steve,INTL FCStone,G,1:26:21.6,10,0,M40
+30,6,7,Wilmes,Scott,Cerner Corporation,A,1:26:28.6,4,0,M40
+31,10,11,Heiser,AJ,Lockton Companies,B,1:26:33.2,4,0,M30
+32,7,8,Hacker,Rikki,Pain Train,D,1:26:34.6,10,0,M40
+33,8,9,Keefe,Ben,Hyland,E,1:27:21.8,10,0,M40
+34,3,4,Sund,Chad,Kiewit,B,1:27:41.1,10,0,M45
+35,5,6,VanGampleare,Sam,Schenck Process LLC,G,1:28:11.6,10,0,M25
+36,11,12,Thomas,Brian,AMC Theatres,C,1:28:16.6,10,0,M30
+37,12,13,Sparks,Jesse,Enterprise Rent-a-Car,D,1:28:58.0,10,0,M30
+38,13,14,Chestnut,Allen,U.S. Army Corps of Engineers,D,1:29:17.2,8,0,M30
+39,2,3,Barnett,Brandon,AMC Theatres,C,1:29:36.1,8,1,M35
+40,4,5,Gurung,Kushal,Cerner Corporation,A,1:29:45.6,6,0,M45
+41,1,2,Stumpff,Dana,Pain Train,D,1:30:13.3,10,2,W25
+42,3,4,Hoffart,Brian,nbkc bank,E,1:30:27.6,10,0,M35
+43,9,10,Silva,Art,"Hallmark Cards, Inc.",A,1:31:01.4,3,0,M40
+44,5,6,Lillis,Scott,SS&C DST,A,1:31:02.3,5,0,M45
+45,10,11,Yamnitz,Ryan,Garmin International,A,1:31:17.0,2,0,M40
+46,11,12,Kerr,Mitchell,"Henderson Engineers, Inc.",D,1:31:18.4,8,0,M40
+47,6,7,Weisman,Isaac,Signal Theory,H,1:31:24.1,10,0,M25
+48,1,2,Nunez,Saul,Missouri Department of Transportation,C,1:31:24.4,10,2,M20
+49,7,8,Wise,Christopher,Freightquote/C.H. Robinson,B,1:31:25.3,8,0,M25
+50,14,15,Kaldahl,Eli,JE Dunn Construction,C,1:31:31.9,8,0,M30
+51,8,9,Mantell,Steve,Burns & McDonnell,A,1:31:31.9,5,0,M25
+52,9,10,McCurry,Matthew,SS&C DST,A,1:31:41.9,4,0,M25
+53,1,2,Liu,Xiaolin,"Clinical Reference Laboratory, Inc.",C,1:31:52.3,10,2,M50
+54,15,16,Markowski,Nick,DSI,F,1:32:07.5,8,0,M30
+55,0,1,Harber,Robert,Garmin International,A,1:32:32.4,10,3,M60
+56,10,11,Kastelic,Zak,KC Suite in Motion,I,1:32:36.7,10,0,M25
+57,0,1,Roper,Brent,NAIC & NIPR,D,1:32:53.5,10,3,M55
+58,1,2,McCormack,Stan,KCP&L Westar,A,1:33:12.3,8,2,M60
+59,11,12,Magruder,Grayson,"Henderson Engineers, Inc.",D,1:33:19.3,10,0,M25
+60,4,5,Pittel,Brian,Continental Disc Corporation,G,1:33:42.8,10,0,M35
+61,16,17,Bennett,Philip,Commerce Bank,A,1:33:44.5,8,0,M30
+62,12,13,Borchardt,Dave,Pain Train,D,1:33:45.2,6,0,M40
+63,12,13,McNeal,Jackson,"Henderson Engineers, Inc.",D,1:33:45.8,8,0,M25
+64,17,18,Murphy,Rob,"SPX Cooling Technologies, Inc.",C,1:33:48.8,6,0,M30
+65,1,2,Mundhenke,Gary,Honeywell,A,1:33:51.3,10,2,M55
+66,1,2,jensen,lydia,Engaged Companies,F,1:34:07.0,10,2,W20
+67,0,1,Housworth,Kelli,Lockton Companies,B,1:34:21.0,10,3,W30
+68,18,19,Yeargin,Daniel,Honeywell,A,1:34:23.4,6,0,M30
+69,0,1,Caldwell,Kalletta,MSTS & World Fuel Services,D,1:35:06.4,10,3,W40
+70,19,20,Shirey,Robert,Burns & McDonnell,A,1:35:40.2,5,0,M30
+71,5,6,Hilton,Mark,Honeywell,A,1:35:45.4,8,0,M35
+72,6,7,Humston,Michael,ScriptPro LLC,C,1:35:48.2,10,0,M45
+73,0,1,Watson,Brooke,Sprint,A,1:36:02.2,10,3,W35
+74,20,21,Hammond,Patrick,Freightquote/C.H. Robinson,B,1:36:18.6,3,0,M30
+75,1,2,Watkins,Karen,Garmin International,A,1:36:33.2,8,2,W35
+76,2,3,Toler,Jacob,McCownGordon Construction,E,1:36:41.4,10,1,M20
+77,2,3,Keiter,David,Honeywell,A,1:36:43.9,8,1,M55
+78,7,8,Fletcher,Mike,Waddell & Reed,B,1:36:55.5,8,0,M45
+79,1,2,Lee,Jae,Stowers Institute for Medical Research,D,1:37:02.8,10,2,W30
+80,0,1,Gudenkauf,Kimberly,Freightquote/C.H. Robinson,B,1:37:17.2,10,3,W45
+81,6,7,Friedrichs,Kevin,"Terracon Consultants, Inc.",E,1:37:17.4,8,0,M35
+82,13,14,Mahn,Morgan,Cerner Corporation,A,1:37:18.1,3,0,M25
+83,3,4,Mahlan,Scott,Sprint,A,1:37:30.7,6,0,M55
+84,13,14,Dickinson,Forrest,Andrews McMeel Universal,G,1:37:34.5,8,0,M40
+85,7,8,Mroczka,Kevin,Children's Mercy Hospital,A,1:37:36.1,6,0,M35
+86,14,15,Pacey,Joseph,Burns & McDonnell,A,1:37:59.1,1,0,M40
+87,8,9,Walls,Brandon,Sprint,A,1:38:01.7,5,0,M35
+88,9,10,Barton,Ethan,"City of Kansas City, Missouri",A,1:38:02.2,4,0,M35
+89,14,15,Christianson,Michael,Shick Esteve,G,1:38:12.2,8,0,M25
+90,1,2,Behounek,Kathy,Cerner Corporation,A,1:38:21.0,10,2,W40
+91,8,9,Rigler,Jeff,Waddell & Reed,B,1:38:35.7,6,0,M45
+92,15,16,King,Scott,MRIGlobal,E,1:38:41.5,8,0,M40
+93,2,3,Bojarski-Stauffer,Alexandra,Populous,E,1:38:53.3,10,1,W30
+94,2,3,Peterson,Alena,Burns & McDonnell,A,1:38:57.8,8,1,W20
+95,10,11,Kerr,Steve,Pain Train,D,1:39:21.4,10,0,M35
+96,3,4,Nygren,Angie,Populous,E,1:39:22.3,8,0,W30
+97,9,10,Rogers,Chad,MilliporeSigma,F,1:39:44.3,10,0,M45
+98,11,12,Kusiak,Jeret,Burns & McDonnell,A,1:39:51.3,3,0,M35
+99,21,22,White,Nate,BKD,F,1:39:52.2,6,0,M30
+100,2,3,Bryant,Kathryn,Procter & Gamble,E,1:39:58.3,10,1,W35
+101,2,3,Sloan,Oliviah,State Street,B,1:39:59.0,10,1,W25
+102,10,11,Mason,Herb,nbkc bank,E,1:40:16.9,8,0,M45
+103,22,23,Schwartz,Dan,BKD,F,1:40:18.2,5,0,M30
+104,23,24,Hosler,Jon,Garmin International,A,1:40:21.6,4,0,M30
+105,24,25,Jordan,Sam,Service Management Group,E,1:40:33.5,5,0,M30
+106,12,13,Wening,John,Farmers Insurance Group,B,1:40:33.6,10,0,M35
+107,3,4,Stevenson,Elizabeth,Stowers Institute for Medical Research,D,1:40:34.9,10,0,W20
+108,11,12,Meacham,Bruce,Cox Automotive,C,1:40:35.1,8,0,M45
+109,2,3,Pena,Gustavo,Sprint,A,1:40:49.7,10,1,M50
+110,15,16,Miller,Lukas,"Clinical Reference Laboratory, Inc.",C,1:40:51.1,10,0,M25
+111,3,4,Koester,Katie,Freightquote/C.H. Robinson,B,1:41:11.6,10,0,W35
+112,16,17,Koster,Ryan,HDR,G,1:41:12.7,6,0,M25
+113,16,17,Taylor,Charlie,Marine Corps Info Technology Center,H,1:41:17.6,10,0,M40
+114,4,5,Millhuff,Alexandra,MRIGlobal,E,1:41:22.0,10,0,W20
+115,4,5,Thomas,Kayla,Cerner Corporation,A,1:41:24.7,10,0,W30
+116,3,4,Keehn,Kristina,JCPRD,F,1:41:32.2,10,0,W25
+117,13,14,Haberstroh,Robin,Cboe Global Markets,F,1:41:32.6,10,0,M35
+118,17,18,Bartkoski,Michael,nbkc bank,E,1:41:44.5,6,0,M40
+119,14,15,Brock,Isaac,TouchNet,G,1:41:48.5,8,0,M35
+120,4,5,Daugherty,Dawn,ScriptPro LLC,C,1:41:53.8,10,0,W35
+121,18,19,Taylor,Shane,POWER Engineers,G,1:41:55.7,6,0,M40
+122,4,5,HALL,JEFF,Ferrellgas,E,1:41:58.2,10,0,M55
+123,15,16,Kittle,Zachary,"P1 Group, Inc.",F,1:41:58.5,8,0,M35
+124,19,20,Cara,Dominic,SAIC,F,1:42:06.2,10,0,M40
+125,25,26,O'Quinn,Sean,Cerner Corporation,A,1:42:09.6,3,0,M30
+126,16,17,Baumann,Jesse,JE Dunn Construction,C,1:42:10.2,6,0,M35
+127,4,5,Schneider,Maggie,Cerner Corporation,A,1:42:11.8,8,0,W25
+128,20,21,Riekenberg,Jon,Cboe Global Markets,F,1:42:12.8,8,0,M40
+129,17,18,Vincent,Andrew,SCOR Global Life Americas,H,1:42:16.9,8,0,M25
+130,12,13,Brand,Elliot,Milbank Manufacturing,D,1:42:30.4,10,0,M45
+131,2,3,Stumpff,Jim,Sprint,A,1:42:35.6,6,1,M60
+132,3,4,Street,Brad,American Century Investments,B,1:42:37.3,10,0,M50
+133,5,6,Bock,David,Populous,E,1:42:39.9,8,0,M55
+134,21,22,Fitzgerald,Ryan,KC Suite in Motion,I,1:42:50.6,10,0,M40
+135,17,18,Miller,Brandon,Stowers Institute for Medical Research,D,1:42:56.8,8,0,M35
+136,5,6,Hannam,Kalli,Service Management Group,E,1:43:01.3,10,0,W25
+137,3,4,Mehlman,Harrison,Kiewit,B,1:43:07.3,10,0,M20
+138,4,5,Rothen,Jeff,Ferrellgas,E,1:43:13.9,10,0,M50
+139,4,5,Hartzell,Ethan,SelectQuote Insurance Services,C,1:43:15.0,8,0,M20
+140,22,23,Allen,Kyle,Sprint,A,1:43:17.9,0,0,M40
+141,23,24,Story,Joe,HNTB Corporation,C,1:43:25.2,10,0,M40
+142,24,25,DeFrain,Brian,D&L Transport,I,1:43:36.1,8,0,M40
+143,25,26,Bowling,Scott,SS&C DST,A,1:43:46.1,0,0,M40
+144,18,19,King,Tracy,JE Dunn Construction,C,1:43:46.1,5,0,M35
+145,5,6,Bland,Katie,Burns & McDonnell,A,1:43:46.4,6,0,W35
+146,19,20,Stackhouse,Ty,TouchNet,G,1:43:46.8,6,0,M35
+147,13,14,Jacobson,Jake,Children's Mercy Hospital,A,1:43:49.0,4,0,M45
+148,26,27,Wages,Nick,Arvest Bank,E,1:44:08.0,4,0,M30
+149,6,7,Frager,Carolyn,Creative Planning,E,1:44:15.4,8,0,W25
+150,20,21,Dennis,Lucas,NAIC & NIPR,D,1:44:32.2,6,0,M35
+151,7,8,Bruce,Julia,HNTB Corporation,C,1:44:53.5,10,0,W25
+152,26,27,Snyder,Loren,City of Shawnee,E,1:44:55.9,5,0,M40
+153,27,28,Shukurov,Otabek,Cox Automotive,C,1:45:02.2,5,0,M30
+154,5,6,Wood,Chris,Stowers Institute for Medical Research,D,1:45:03.2,10,0,M50
+155,6,7,Heng,Nick,"Hallmark Cards, Inc.",A,1:45:03.8,5,0,M55
+156,28,29,Hartmann,Brad,"Associated Wholesale Grocers, Inc.",C,1:45:14.4,4,0,M30
+157,6,7,Ronning,Brant,MHC (Murphy-Hoffman Company),D,1:45:19.5,8,0,M50
+158,21,22,Beller,Mitch,Children's Mercy Hospital,A,1:45:20.0,2,0,M35
+159,22,23,Oxler,Paul,"City of Kansas City, Missouri",A,1:45:26.6,1,0,M35
+160,8,9,Humphrey,Jessica,Seaboard Foods,E,1:45:31.7,6,0,W25
+161,7,8,Fagen,Alex,Cerner Corporation,A,1:45:33.5,8,0,M50
+162,6,7,Wray,Debra,Burns & McDonnell,A,1:45:36.9,5,0,W35
+163,18,19,Blinn,Adam,Waddell & Reed,B,1:45:49.7,6,0,M25
+164,14,15,Harber,Steve,Commerce Bank,A,1:45:56.8,3,0,M45
+165,29,30,Zahner,Richard,Lockton Companies,B,1:46:00.3,2,0,M30
+166,19,20,Fabis,Adam,AMC Theatres,C,1:46:02.5,8,0,M25
+167,5,6,Caldwell,Megan,Olathe Health,A,1:46:06.1,8,0,W30
+168,9,10,Fuchs,Erin,Arvest Bank,E,1:46:08.6,5,0,W25
+169,2,3,Swearingen,Christy,SS&C DST,A,1:46:26.3,8,1,W40
+170,5,6,harwood,morgan,Stowers Institute for Medical Research,D,1:46:28.4,8,0,W20
+171,3,4,Adreon,Cara,Black & Veatch,A,1:46:56.5,6,0,W40
+172,27,28,Jenson,Bruce,NAIC & NIPR,D,1:47:07.9,5,0,M40
+173,20,21,McCracken,Scott,Populous,E,1:47:07.9,10,0,M25
+174,15,16,Dunlap,Matt,McCownGordon Construction,E,1:47:10.1,6,0,M45
+175,0,1,Daley,Steve,Pain Train,D,1:47:14.3,10,3,M65
+176,16,17,Timms,Elliot,MAGNA/LMV,D,1:47:14.4,8,0,M45
+177,21,22,Huppe,Mike,Russell Stover Chocolates,F,1:47:19.8,8,0,M25
+178,8,9,Mellor,Matthew,Affinis Corp/Zelis Healthcare,H,1:47:20.2,10,0,M50
+179,23,24,Steele,Michael,Velociti,E,1:47:32.7,6,0,M35
+180,9,10,Bowers,Ben,Multivac,F,1:47:43.6,8,0,M50
+181,17,18,Yates,Chris,Bayer,B,1:47:57.1,5,0,M45
+182,1,2,Reed,Shelley,Seaboard Foods,E,1:48:08.0,10,2,W45
+183,24,25,menon,sooraj,H&R Block,B,1:48:08.2,8,0,M35
+184,7,8,Hancock,Rachel,UMB,A,1:48:08.9,4,0,W35
+185,30,31,Collins,Austin,Seaboard Foods,E,1:48:10.8,3,0,M30
+186,8,9,Garcia,Ashby,Farmers Insurance Group,B,1:48:14.8,8,0,W35
+187,10,11,Wendell,Kathleen,Honeywell,A,1:48:20.2,6,0,W25
+188,31,32,Church,Michael,Stowers Institute for Medical Research,D,1:48:20.6,6,0,M30
+189,25,26,Brady,Ben,Federal Reserve Bank of Kansas City,B,1:48:26.2,6,0,M35
+190,32,33,Manglos,Randy,"Terracon Consultants, Inc.",E,1:48:26.6,2,0,M30
+191,28,29,Sander,Chris,PNC Bank,C,1:48:28.1,8,0,M40
+192,29,30,Burns,John,Enterprise Rent-a-Car,D,1:48:33.1,4,0,M40
+193,33,34,Cochran,Nicholas,Honeywell,A,1:48:37.9,2,0,M30
+194,1,2,Bartel,Dan,Garmin International,A,1:48:40.8,10,2,M65
+195,34,35,Schultze,Conor,Blue Cross and Blue Shield of Kansas City,B,1:48:43.8,1,0,M30
+196,10,11,Yildirim,Cem,Multivac,F,1:48:47.9,6,0,M50
+197,18,19,Basile,David,TouchNet,G,1:48:49.1,10,0,M45
+198,6,7,Bennett,Rebecca,Kiewit,B,1:48:57.3,8,0,W30
+199,30,31,Pottorf,Justin,Multivac,F,1:49:02.9,6,0,M40
+200,3,4,Monteil,Paul,"Hallmark Cards, Inc.",A,1:49:05.9,5,0,M60
+201,31,32,Borntreger,Levi,HNTB Corporation,C,1:49:09.8,6,0,M40
+202,4,5,Barnes,Alan,BKD,F,1:49:13.9,10,0,M60
+203,32,33,Zimmer,Steven,Commerce Bank,A,1:49:32.5,0,0,M40
+204,11,12,Yu,Ron,Stowers Institute for Medical Research,D,1:49:33.8,6,0,M50
+205,33,34,Paine,Jon,Farmers Insurance Group,B,1:49:34.3,8,0,M40
+206,4,5,DiGiorgio,Brandi,MarksNelson,G,1:49:36.7,10,0,W40
+207,22,23,Anderson,Tyler,POWER Engineers,G,1:49:38.3,5,0,M25
+208,5,6,Skinner,Andrew,B.E. Smith,H,1:49:48.3,10,0,M20
+209,12,13,Keeney,Matthew,"City of Kansas City, Missouri",A,1:49:50.6,6,0,M50
+210,34,35,Cason,Paul,"Hallmark Cards, Inc.",A,1:49:58.6,0,0,M40
+211,35,36,Sovereign,Josh,BKD,F,1:50:03.3,5,0,M40
+212,7,8,Watson,Vincent,Spectrum,C,1:50:08.8,10,0,M55
+213,26,27,Kelsey,Peter,MRIGlobal,E,1:50:10.1,5,0,M35
+214,6,7,Haugen,Jennie,Unleashed,H,1:50:17.1,10,0,W20
+215,23,24,Wise,Timothy,Freightquote/C.H. Robinson,B,1:50:20.9,5,0,M25
+216,19,20,German,Damon,Hyland,E,1:50:23.2,5,0,M45
+217,20,21,Karpenko,Vlad,Dairy Farmers of America,D,1:50:26.5,6,0,M45
+218,5,6,Elgas,Jaime,JE Dunn Construction,C,1:50:28.0,10,0,W40
+219,35,36,Godsy,Tyler,Fike Corporation,D,1:50:30.0,5,0,M30
+220,36,37,Cardenas,Ivan,DSI,F,1:50:39.2,4,0,M30
+221,24,25,Jones,Ryan,YRC Freight,B,1:50:39.8,4,0,M25
+222,9,10,Denton,Megan,Sprint,A,1:50:41.1,3,0,W35
+223,0,1,Brown,Maria,NAIC & NIPR,D,1:50:41.7,10,3,W55
+224,27,28,Hernandez,Eric,Kansas City VA Medical Center,B,1:50:47.2,5,0,M35
+225,8,9,Cook,Stuart,U.S. Army Corps of Engineers,D,1:50:48.4,8,0,M55
+226,28,29,Burch,Cody,B.E. Smith,H,1:50:49.5,10,0,M35
+227,36,37,Masterson,Parc,Signal Theory,H,1:50:59.5,8,0,M40
+228,21,22,Kalafut,Kevin,MSTS & World Fuel Services,D,1:51:04.6,5,0,M45
+229,37,38,Landvik,Mike,Missouri Department of Transportation,C,1:51:17.3,5,0,M40
+230,37,38,Grashoff,Benjamin,KeyBank Real Estate Capital,D,1:51:26.9,4,0,M30
+231,6,7,Haynes,Kate,H&R Block,B,1:51:32.1,10,0,W40
+232,25,26,Unseld,Jeremy,SCOR Global Life Americas,H,1:51:33.6,6,0,M25
+233,6,7,Vogel,Aaron,Garmin International,A,1:51:49.8,8,0,M20
+234,2,3,Trout,Kermit,Black & Veatch,A,1:52:15.3,8,1,M65
+235,26,27,List,Benjamin,Honeywell,A,1:52:20.9,2,0,M25
+236,38,39,McGrail,Patrick,"Henderson Engineers, Inc.",D,1:52:21.8,3,0,M30
+237,11,12,Jones,Sarah,SCOR Global Life Americas,H,1:52:24.2,10,0,W25
+238,38,39,Blanks,Ryan,Ferrellgas,E,1:52:26.2,4,0,M40
+239,39,40,Lee,Peter,IPFS,G,1:52:29.1,10,0,M30
+240,29,30,Roberts,Aaron,Centric Construction Group,H,1:52:37.4,8,0,M35
+241,13,14,Rhodes,Bob,"Huhtamaki, Inc.",D,1:52:41.2,5,0,M50
+242,39,40,Reno,Seth,Rosnet,I,1:52:50.7,6,0,M40
+243,9,10,Tolle,Michael,"SPX Cooling Technologies, Inc.",C,1:52:54.2,8,0,M55
+244,22,23,Bates,Martin,Dairy Farmers of America,D,1:52:56.3,4,0,M45
+245,2,3,Roellchen,Stephanie,Americo,E,1:53:02.1,8,1,W45
+246,5,6,Wayne,Stu,Bayer,B,1:53:03.1,10,0,M60
+247,10,11,Tao,Fang,Stowers Institute for Medical Research,D,1:53:04.8,10,0,W35
+248,14,15,Gray,Mike,Synchrony Financial,C,1:53:04.9,8,0,M50
+249,27,28,Allum,Daniel,Seaboard Foods,E,1:53:20.0,8,0,M25
+250,30,31,Williams,Clay,Seaboard Foods,E,1:53:23.3,4,0,M35
+251,40,41,Wagner,Mark,Sprint,A,1:53:33.3,1,0,M30
+252,31,32,Corbin,Logan,Blue Cross and Blue Shield of Kansas City,B,1:53:41.3,4,0,M35
+253,3,4,Lawrence,Shauna,Burns & McDonnell,A,1:53:53.7,10,0,W45
+254,15,16,Hoffpauir,Ray,SAIC,F,1:53:55.7,5,0,M50
+255,7,8,Hopfinger,Jack,Centric Construction Group,H,1:54:02.9,8,0,M20
+256,23,24,Stein,Darrell,"Henderson Engineers, Inc.",D,1:54:08.2,3,0,M45
+257,12,13,Parks,Shelby,PRA Health Sciences,C,1:54:09.1,8,0,W25
+258,13,14,Sandbothe,Abigail,HDR,G,1:54:15.4,10,0,W25
+259,28,29,Carlsen,Anthony,Woodside,I,1:54:15.8,8,0,M25
+260,24,25,Benson,Peter,B.E. Smith,H,1:54:16.6,10,0,M45
+261,1,2,Schmucker,Lisa,NAIC & NIPR,D,1:54:33.6,8,2,W55
+262,16,17,Sells,William TODD,NAIC & NIPR,D,1:54:48.6,4,0,M50
+263,29,30,Grinter,James,"Design Resources, Inc",G,1:54:48.7,4,0,M25
+264,25,26,Russell,Jeff,Fike Corporation,D,1:54:50.1,2,0,M45
+265,32,33,Andrade,Rafael,Kansas City Southern,C,1:54:52.8,4,0,M35
+266,11,12,McNamara,Ellen,KCTV5,G,1:54:57.6,10,0,W35
+267,33,34,Sindorf,Nicholas,Olathe Health,A,1:55:05.7,0,0,M35
+268,17,18,Mast,Paul,Garmin International,A,1:55:09.8,5,0,M50
+269,26,27,Bhatia,Naveen,Accenture,F,1:55:15.7,8,0,M45
+270,14,15,Diamond,Sarah,Marine Corps Info Technology Center,H,1:55:16.7,8,0,W25
+271,34,35,Quinn,John,UMB,A,1:55:24.6,0,0,M35
+272,15,16,Cockrell,Samantha,Children's Mercy Hospital,A,1:55:26.9,5,0,W25
+273,3,4,Psaras,James,Sprint,A,1:55:34.1,6,0,M65
+274,12,13,Bello,Monica,Swiss Re,D,1:55:39.2,8,0,W35
+275,27,28,Moss,Aaron,YRC Freight,B,1:55:39.4,4,0,M45
+276,30,31,Tryon,Chase,B.E. Smith,H,1:55:44.4,5,0,M25
+277,28,29,Stauffer,Lee,Honeywell,A,1:55:46.4,2,0,M45
+278,16,17,Vanderweide,Shelbie,Citoxlab,H,1:56:02.4,6,0,W25
+279,41,42,Alasady,Kadim,Unleashed,H,1:56:06.6,10,0,M30
+280,42,43,Halberrt,Brad,Freightquote/C.H. Robinson,B,1:56:08.3,0,0,M30
+281,43,44,Rothermich,Adam,"Henderson Engineers, Inc.",D,1:56:08.8,2,0,M30
+282,40,41,Yarlagadda,Ravi,Olathe Health,A,1:56:11.4,0,0,M40
+283,31,32,Unruh,Jake,Commerce Bank,A,1:56:22.3,1,0,M25
+284,4,5,Holferty,Kristine,SkillPath,G,1:56:34.9,10,0,W45
+285,44,45,Davis,Keaton,APEX Orthopedics and Sports Medicine Team,H,1:56:49.6,8,0,M30
+286,32,33,Wahrman,Christopher,Signal Theory,H,1:57:35.1,4,0,M25
+287,35,36,Johnson,Chad,Cerner Corporation,A,1:57:38.1,0,0,M35
+288,17,18,Tremaine,Sydney,Garmin International,A,1:57:42.3,4,0,W25
+289,6,7,Hannon,Philip,HNTB Corporation,C,1:57:43.1,10,0,M60
+290,29,30,Dailey,Steve,Harcros Chemicals Inc.,G,1:57:45.4,8,0,M45
+291,45,46,Smith,Griffin,Missouri Department of Transportation,C,1:57:47.2,3,0,M30
+292,36,37,DeBray,Blake,Ad Astra,H,1:57:48.9,6,0,M35
+293,37,38,Gay,Don,TouchNet,G,1:57:54.5,5,0,M35
+294,41,42,Sewell,Scott,GEHA,B,1:57:59.1,6,0,M40
+295,18,19,Barfield,Todd,Sprint,A,1:58:06.7,4,0,M50
+296,13,14,Nordin,Jenny,Children's Mercy Hospital,A,1:58:19.9,2,0,W35
+297,46,47,Smith,Walker,GBA,F,1:58:20.2,3,0,M30
+298,47,48,Carrera,Francisco,HNTB Corporation,C,1:58:30.2,2,0,M30
+299,38,39,Pernice,Anthony,Commerce Bank,A,1:58:32.3,0,0,M35
+300,7,8,Vermillion,Greg,AMC Theatres,C,1:58:36.0,8,0,M60
+301,0,1,Kornitzer,Rebecca,"Pro Athlete, Inc.",I,1:58:41.3,10,3,W50
+302,1,2,Aitken,Sara,Blue Valley School District,A,1:58:43.0,10,2,W50
+303,0,1,Mize,Tammy,Olathe Health,A,1:58:46.3,10,3,W60
+304,5,6,Latimer,Stefanie,AMC Theatres,C,1:59:07.3,10,0,W45
+305,48,49,Marsh,Paul,Service Management Group,E,1:59:07.4,1,0,M30
+306,6,7,Turney,Kristen,SS&C DST,A,1:59:09.3,8,0,W45
+307,7,8,Schroer,Anne,GBA,F,1:59:10.2,10,0,W40
+308,18,19,Gould,Katherine,Andrews McMeel Universal,G,1:59:13.1,8,0,W25
+309,33,34,Gebhardt,Brandon,Dimensional Innovations,F,1:59:15.5,6,0,M25
+310,34,35,Tinoco,Nicholas,MarksNelson,G,1:59:21.4,3,0,M25
+311,7,8,Hudson,Kara,Ferrellgas,E,1:59:22.4,6,0,W30
+312,30,31,VanBiber,Robert,KeyBank Real Estate Capital,D,1:59:22.6,1,0,M45
+313,2,3,Ruf,Stephanie,Olathe Health,A,1:59:24.3,8,1,W50
+314,31,32,Renton,Bob,"Henderson Engineers, Inc.",D,1:59:32.6,0,0,M45
+315,42,43,Killion,Matt,Missouri Department of Transportation,C,1:59:33.7,4,0,M40
+316,8,9,Long,Emily,"Henderson Engineers, Inc.",D,1:59:34.3,8,0,W30
+317,43,44,Hall,Chad,HDR,G,1:59:40.8,5,0,M40
+318,8,9,Kesner,Max,"Hallmark Cards, Inc.",A,1:59:40.9,4,0,M60
+319,49,50,Gierster,Andrew,Olathe Health,A,1:59:41.0,0,0,M30
+320,19,20,Swenson,Rob,Cerner Corporation,A,1:59:43.4,3,0,M50
+321,44,45,Cooley,John Paul,Marine Corps Info Technology Center,H,1:59:50.3,6,0,M40
+322,1,2,Sharp,Linda,Children's Mercy Hospital,A,1:59:54.7,8,2,W60
+323,50,51,Jenkins,Zachary,Enterprise Rent-a-Car,D,1:59:56.8,1,0,M30
+324,10,11,Herting,Michael,Dairy Farmers of America,D,1:59:58.6,6,0,M55
+325,39,40,Prada,Ithamar,Compass Minerals,F,2:00:02.1,6,0,M35
+326,19,20,Moidl,Becky,GlynnDevins Advertising and Marketing,F,2:00:06.3,8,0,W25
+327,8,9,Suther,Jennifer,Farmers Insurance Group,B,2:00:12.1,8,0,W40
+328,32,33,Hamilton,Brad,Seaboard Foods,E,2:00:15.5,4,0,M45
+329,9,10,Seybold,Melanie,Olathe Health,A,2:00:21.6,5,0,W40
+330,40,41,Hulse,Ryan,Woodside,I,2:00:26.3,10,0,M35
+331,4,5,Rink,Larry,North American Savings Bank,D,2:00:30.8,8,0,M65
+332,41,42,McMillan,Lyle,John Deere,E,2:00:33.3,3,0,M35
+333,35,36,Throckmorton,Avery,Mazuma Credit Union,F,2:00:36.4,5,0,M25
+334,33,34,Edwards,James,GEHA,B,2:00:40.6,3,0,M45
+335,9,10,Whiston,Glenn,"City of Kansas City, Missouri",A,2:00:42.1,3,0,M60
+336,36,37,Brokke,Ryan,KCP&L Westar,A,2:00:49.6,0,0,M25
+337,10,11,Gude,Robert,NorthPoint Development,F,2:00:56.0,8,0,M60
+338,37,38,Catton,Daniel,Honeywell,A,2:00:57.8,0,0,M25
+339,42,43,Bess,Phil,CommunityAmerica Credit Union,C,2:01:02.5,3,0,M35
+340,43,44,Harsch,Christopher,SelectQuote Insurance Services,C,2:01:05.0,2,0,M35
+341,38,39,Ecklund,Daniel,Commerce Bank,A,2:01:09.0,0,0,M25
+342,34,35,Duddela,Narendra,SAIC,F,2:01:09.7,6,0,M45
+343,20,21,Michael,Kelsie,Unleashed,H,2:01:18.0,5,0,W25
+344,44,45,Hughes,Shaun,Signal Theory,H,2:01:18.7,5,0,M35
+345,51,52,Richardson,Ryan,SelectQuote Insurance Services,C,2:01:22.6,1,0,M30
+346,20,21,Vossen,Jeff,TruHome Solutions,G,2:01:33.4,10,0,M50
+347,35,36,Imm,Chris,Johnson County Community College,B,2:01:40.1,2,0,M45
+348,52,53,Middleton,Todd,Kansas City Southern,C,2:01:42.9,0,0,M30
+349,45,46,Schroeder,Ron,Intouch Solutions,D,2:01:52.5,5,0,M35
+350,7,8,Baack,Amy,State Street,B,2:01:52.8,8,0,W45
+351,39,40,Malhotra,Shivansh,SelectQuote Insurance Services,C,2:01:54.3,6,0,M25
+352,45,46,Heath,Jason,Dimensional Innovations,F,2:01:56.9,4,0,M40
+353,21,22,Wolf,Gary,Bayer,B,2:01:57.3,8,0,M50
+354,11,12,Maday,Brian,Marine Corps Info Technology Center,H,2:02:00.1,10,0,M55
+355,3,4,howard,kayden,Kansas City Southern,C,2:02:07.1,10,0,W50
+356,7,8,Mayer,Katelyn,Commerce Bank,A,2:02:15.0,6,0,W20
+357,8,9,Freemon,Jared,Federal Reserve Bank of Kansas City,B,2:02:15.2,8,0,M20
+358,11,12,Murphy,Tim,Edward Jones Investments,D,2:02:25.8,10,0,M60
+359,12,13,Petersen,Eric,Americo,E,2:02:36.9,6,0,M55
+360,36,37,Woods,Stephen,Swiss Re,D,2:02:38.0,0,0,M45
+361,14,15,Rippel,Laura,Garmin International,A,2:02:57.6,1,0,W35
+362,4,5,Adams,Dawn,Cerner Corporation,A,2:02:57.9,6,0,W50
+363,40,41,Adams,Jefferson,AMC Theatres,C,2:03:11.4,5,0,M25
+364,15,16,Breon,Leslie,Empower Retirement,C,2:03:15.5,8,0,W35
+365,46,47,Stoecker,Tim,Signal Theory,H,2:03:18.8,4,0,M35
+366,5,6,Shahane,Malenda,UMB,A,2:03:34.8,5,0,W50
+367,21,22,Santoro,Kyle,Cerner Corporation,A,2:03:35.4,3,0,W25
+368,12,13,Hesketh,Richard,Harcros Chemicals Inc.,G,2:03:51.7,10,0,M60
+369,6,7,Veitch,Kristi,Intouch Solutions,D,2:03:55.9,10,0,W50
+370,8,9,Kruger,Sarah,"Henderson Engineers, Inc.",D,2:04:00.2,6,0,W20
+371,13,14,Sopcich,Joe,Johnson County Community College,B,2:04:02.2,8,0,M60
+372,22,23,Yuldasheva,Zebo,NAIC & NIPR,D,2:04:15.8,8,0,W25
+373,46,47,Holzman,Michael,TruHome Solutions,G,2:04:15.9,4,0,M40
+374,53,54,Williams,Aaron,U.S. Army Corps of Engineers,D,2:04:18.6,0,0,M30
+375,9,10,Koboldt,Lindsey,Citoxlab,H,2:04:20.2,8,0,W20
+376,22,23,Smith,Christopher,"City of Kansas City, Missouri",A,2:04:30.9,2,0,M50
+377,47,48,Lewis,Dustin,"Design Resources, Inc",G,2:04:35.4,4,0,M35
+378,14,15,Mathews,David,U.S. Army Corps of Engineers,D,2:04:43.8,8,0,M60
+379,10,11,Grothaus,Amy,CommunityAmerica Credit Union,C,2:04:56.8,8,0,W40
+380,37,38,Thompson,Doug,Cerner Corporation,A,2:04:59.3,1,0,M45
+381,16,17,Cervantes,Andrea,Procter & Gamble,E,2:05:02.1,8,0,W35
+382,2,3,Johnson,Marcy,National Beef Packing Company,E,2:05:06.8,10,1,W60
+383,13,14,Lenihan,Jim,"eSolutions, Inc.",G,2:05:06.9,10,0,M55
+384,23,24,Nagel,Rob,Lockton Companies,B,2:05:09.3,6,0,M50
+385,0,1,McCormick,Kaye,Garmin International,A,2:05:28.7,10,3,W65
+386,15,16,Dick,Roger,Burns & McDonnell,A,2:05:36.9,2,0,M60
+387,48,49,Anderson,Steven,Waddell & Reed,B,2:05:40.3,3,0,M35
+388,54,55,Duncan,Andrew,TruHome Solutions,G,2:05:42.1,8,0,M30
+389,41,42,Currie,Brandon,"eSolutions, Inc.",G,2:05:42.5,2,0,M25
+390,23,24,Kroenlein,Kayla,Intouch Solutions,D,2:05:49.4,6,0,W25
+391,49,50,Graves,Eddie,Turner Construction,H,2:05:56.4,3,0,M35
+392,24,25,Boudreau,Bryan,AMC Theatres,C,2:06:07.5,6,0,M50
+393,9,10,Walker,Marie,Farmers Insurance Group,B,2:06:17.1,6,0,W30
+394,25,26,Handley,Chip,Black & Veatch,A,2:06:19.6,1,0,M50
+395,17,18,Brummel,Kate,PRA Health Sciences,C,2:06:27.7,6,0,W35
+396,38,39,Dillavou,Jason,YRC Freight,B,2:06:31.9,1,0,M45
+397,47,48,Walker,Robert,Dairy Farmers of America,D,2:06:33.5,3,0,M40
+398,55,56,Grayson,Isaac,"BRR Architecture, Inc.",G,2:06:36.5,6,0,M30
+399,14,15,Li,Kevin,UMB,A,2:06:37.6,4,0,M55
+400,50,51,Gajaraj,Shashikanth,HDR,G,2:06:38.3,3,0,M35
+401,7,8,Griffin,Melissa,NAIC & NIPR,D,2:06:38.8,8,0,W50
+402,24,25,Beyer,Katy,Burns & McDonnell,A,2:06:42.9,2,0,W25
+403,39,40,Trujillo,Richard,TouchNet,G,2:06:44.2,6,0,M45
+404,40,41,Wigger,Frank,PRA Health Sciences,C,2:06:47.6,6,0,M45
+405,48,49,Still,Jim,BKD,F,2:06:49.6,3,0,M40
+406,10,11,Scantlebury,Samantha,Signal Theory,H,2:06:51.6,10,0,W30
+407,8,9,Moxley,Sara,SAIC,F,2:06:52.7,10,0,W50
+408,8,9,Steffens,Tonya,Andrews McMeel Universal,G,2:06:53.2,8,0,W45
+409,26,27,Battin,Doug,TruHome Solutions,G,2:06:53.6,8,0,M50
+410,27,28,Forde,Chad,SAIC,F,2:06:56.2,4,0,M50
+411,28,29,Dohr,Michael,DH Pace,D,2:07:06.7,3,0,M50
+412,16,17,Grisnik,Edward,"Hallmark Cards, Inc.",A,2:07:07.2,1,0,M60
+413,56,57,Alvarez,Tony,Hoefer Wysocki,H,2:07:10.7,6,0,M30
+414,15,16,Shelly,Jeff,TouchNet,G,2:07:16.5,8,0,M55
+415,10,11,Sanders,Olivia,Black & Veatch,A,2:07:17.1,5,0,W20
+416,9,10,Wolf,Jennifer,AutoAlert,F,2:07:20.9,10,0,W45
+417,17,18,Czerwinski,Maciej,"Sekisui Xenotech, LLC",G,2:07:23.4,8,0,M60
+418,16,17,Karr,David,Stowers Institute for Medical Research,D,2:07:28.7,5,0,M55
+419,57,58,Oakes,Travis,Crestwood Midstream,G,2:07:30.9,5,0,M30
+420,11,12,Karimi,Denise,Federal Reserve Bank of Kansas City,B,2:07:31.2,6,0,W40
+421,11,12,Morray,Hannah,Cerner Corporation,A,2:07:32.5,6,0,W30
+422,41,42,KAMUNYU,PETER,Olathe Health,A,2:07:34.0,0,0,M45
+423,18,19,Hapke,Tiffani,Kansas City VA Medical Center,B,2:07:40.5,6,0,W35
+424,51,52,lloyd,chris,"Southern Star Central Gas Pipeline, Inc",I,2:07:50.1,8,0,M35
+425,52,53,Tyrrel,Mitch,Zurich,D,2:07:53.2,4,0,M35
+426,12,13,Wiederanders,Sharon,Garmin International,A,2:08:00.3,4,0,W40
+427,42,43,Brock,Gage,Service Management Group,E,2:08:01.3,6,0,M25
+428,13,14,Lambert,Stacie,Waddell & Reed,B,2:08:07.1,5,0,W40
+429,58,59,machado,michael,"City of Kansas City, Missouri",A,2:08:08.1,0,0,M30
+430,19,20,Massey,Leana,NAIC & NIPR,D,2:08:10.9,6,0,W35
+431,12,13,Scheiman,Jamie,Burns & McDonnell,A,2:08:16.4,5,0,W30
+432,53,54,Swarts,Jeffrey,American Century Investments,B,2:08:39.4,2,0,M35
+433,14,15,Tinoco,Modesta,American Century Investments,B,2:08:40.6,4,0,W40
+434,20,21,Gates,Kathy,Pain Train,D,2:08:59.8,5,0,W35
+435,13,14,Williams,Laura,Children's Mercy Hospital,A,2:08:59.8,4,0,W30
+436,42,43,Lopez,Ixtlaciguatl,Spectrum,C,2:09:06.3,5,0,M45
+437,17,18,Huber,Paul,KCP&L Westar,A,2:09:06.9,3,0,M55
+438,29,30,Kinnan,Matt,DEG,F,2:09:10.5,3,0,M50
+439,25,26,Prichard,Hannah,Pain Train,D,2:09:25.4,5,0,W25
+440,54,55,Kesner,Justin,Multivac,F,2:09:32.8,5,0,M35
+441,3,4,Gwin,Candice,Children's Mercy Hospital,A,2:09:33.4,6,0,W60
+442,18,19,marr,scott,IPFS,G,2:09:36.4,6,0,M55
+443,30,31,Clark,Chad,YRC Freight,B,2:09:42.1,5,0,M50
+444,55,56,Tworek,Andrew,Fike Corporation,D,2:09:45.0,3,0,M35
+445,11,12,Kesselmayer,Leah,POWER Engineers,G,2:09:47.2,10,0,W20
+446,19,20,Ebbers,Anthony,ReDiscover,D,2:09:48.0,4,0,M55
+447,43,44,Brisco,Justin,Engaged Companies,F,2:09:54.1,4,0,M25
+448,43,44,Reinke,John,KCP&L Westar,A,2:10:01.0,0,0,M45
+449,21,22,Figg,Emily,C2FO,G,2:10:19.8,8,0,W35
+450,22,23,Berrigan,Delia,"Hallmark Cards, Inc.",A,2:10:20.4,0,0,W35
+451,10,11,Garstang,Adrienne,Pain Train,D,2:10:20.4,10,0,W45
+452,44,45,Allgood,Eli,C2FO,G,2:10:22.5,1,0,M25
+453,2,3,Lenihan,Julie,TouchNet,G,2:10:42.4,10,1,W55
+454,45,46,Owens,James,Citoxlab,H,2:10:43.4,3,0,M25
+455,59,60,Al-Shawish,Zakariya,Fike Corporation,D,2:10:46.1,0,0,M30
+456,31,32,White,Jeffrey,Lakemary,F,2:10:48.7,2,0,M50
+457,56,57,Hale,Drake,ScriptPro LLC,C,2:10:57.8,1,0,M35
+458,23,24,York,Sarah,Littler,E,2:10:57.8,6,0,W35
+459,14,15,Morris,Heidi,PRA Health Sciences,C,2:10:59.5,10,0,W30
+460,24,25,Peterson,Ashley,B.E. Smith,H,2:11:04.3,10,0,W35
+461,60,61,Philipp,Nick,AMC Theatres,C,2:11:04.4,0,0,M30
+462,44,45,willard,kirk,Citoxlab,H,2:11:06.9,8,0,M45
+463,9,10,Strouse,Matt,Citoxlab,H,2:11:07.4,6,0,M20
+464,15,16,Gallagher,Emily,JE Dunn Construction,C,2:11:19.4,6,0,W40
+465,49,50,Hughes,Jason,NAIC & NIPR,D,2:11:29.2,2,0,M40
+466,15,16,Guan,Debbie,Blue Valley School District,A,2:11:40.7,3,0,W30
+467,16,17,Winfrey,Darlene,Bank of America,D,2:11:42.9,8,0,W40
+468,20,21,McCoun,Mitch,Federal Reserve Bank of Kansas City,B,2:11:45.7,10,0,M55
+469,46,47,Snow,Steven,Affinis Corp/Zelis Healthcare,H,2:11:50.3,2,0,M25
+470,57,58,Grassmuck,Joe,GBA,F,2:12:16.8,4,0,M35
+471,26,27,Whitmore,Alicia,Sprint,A,2:12:24.8,1,0,W25
+472,25,26,Zaffos,Corinne,Collins Aerospace,E,2:12:35.6,5,0,W35
+473,47,48,Lutz,Caleb,Freightquote/C.H. Robinson,B,2:12:41.2,3,0,M25
+474,17,18,Monroe,Jill,"City of Kansas City, Missouri",A,2:12:44.2,3,0,W40
+475,26,27,YE,Jurgita,Crestwood Midstream,G,2:12:46.1,6,0,W35
+476,9,10,Anderson,Margy,Unite Private Networks,H,2:12:49.5,10,0,W50
+477,21,22,Anderson,Kevin,Unite Private Networks,H,2:12:51.2,8,0,M55
+478,22,23,Furstner,Greg,SkillPath,G,2:12:52.7,5,0,M55
+479,32,33,Wigdahl,Matt,ScriptPro LLC,C,2:13:04.7,5,0,M50
+480,50,51,Decaro,Nathan,"Pro Athlete, Inc.",I,2:13:07.4,5,0,M40
+481,23,24,Velagapudi,Radhakrishna,Accenture,F,2:13:14.8,10,0,M55
+482,5,6,Lundgren,Mike,Pain Train,D,2:13:26.8,6,0,M65
+483,51,52,Meier,George,Freightquote/C.H. Robinson,B,2:13:33.6,5,0,M40
+484,27,28,Flackus,Tara,Arvest Bank,E,2:13:40.6,4,0,W35
+485,28,29,Zerr,Alissa,GEHA,B,2:13:41.0,5,0,W35
+486,10,11,Mallory,Stephanie,Country Club Bank,D,2:13:47.7,6,0,W50
+487,10,11,Points,Alex,Velociti,E,2:14:00.2,8,0,M20
+488,16,17,Morales,Allison,Sprint,A,2:14:05.0,2,0,W30
+489,27,28,Todd,Megan,Federal Reserve Bank of Kansas City,B,2:14:08.3,8,0,W25
+490,29,30,Singer,Tessa,Pryor Learning Solutions,G,2:14:12.4,5,0,W35
+491,28,29,Free,Valerie,Cerner Corporation,A,2:14:12.5,0,0,W25
+492,33,34,Fanty,Maurice,DXC,G,2:14:13.0,6,0,M50
+493,11,12,Simpson,Tiffany,Commerce Bank,A,2:14:19.8,4,0,W50
+494,48,49,Garlapati,Abhinav,NAIC & NIPR,D,2:14:22.2,6,0,M25
+495,12,13,Bergin,Carolyn,"Hallmark Cards, Inc.",A,2:14:25.3,3,0,W50
+496,29,30,Brown,Nicole,Lockton Companies,B,2:14:42.5,6,0,W25
+497,24,25,Cummins,Steven,Garmin International,A,2:14:43.7,2,0,M55
+498,30,31,Lindell,Regina,Enterprise Rent-a-Car,D,2:14:49.6,4,0,W35
+499,58,59,Srivatsavaye,Raju,Service Management Group,E,2:15:08.2,2,0,M35
+500,17,18,Meaney,Trish,"Hallmark Cards, Inc.",A,2:15:22.6,1,0,W30
+501,34,35,Stringer,Robert,Lockton Companies,B,2:15:34.4,4,0,M50
+502,59,60,Kadavasal,Muthu,Garmin International,A,2:15:44.6,0,0,M35
+503,61,62,Bailey,Ty,Rosnet,I,2:15:46.3,8,0,M30
+504,45,46,Hughes,Dwayne,Honeywell,A,2:16:07.2,0,0,M45
+505,25,26,Sickle,Brian,Fike Corporation,D,2:16:09.4,3,0,M55
+506,31,32,Vida,Elizabeth,TouchNet,G,2:16:13.0,4,0,W35
+507,35,36,Nylund,Terry,Freightquote/C.H. Robinson,B,2:16:21.0,3,0,M50
+508,18,19,Wiens,Kelly,Shick Esteve,G,2:16:32.2,8,0,W40
+509,36,37,Frostestad,Eric,HDR,G,2:16:34.7,5,0,M50
+510,12,13,Williamson,Casey,Lockton Companies,B,2:16:42.2,10,0,W20
+511,37,38,fairchild,terry,SS&C DST,A,2:16:48.5,0,0,M50
+512,49,50,Marting,Matt,Lockton Companies,B,2:16:51.7,2,0,M25
+513,18,19,Mischke,Ashley,"Design Resources, Inc",G,2:16:52.4,10,0,W30
+514,3,4,Gray,Teresa,Sprint,A,2:16:53.5,10,0,W55
+515,38,39,Crews,Joel,"Sosland Companies, Inc.",H,2:16:57.8,8,0,M50
+516,62,63,Nechrebecki,Jacob,Corbion,E,2:17:01.2,0,0,M30
+517,32,33,Flad,Erica,"City of Kansas City, Missouri",A,2:17:07.3,0,0,W35
+518,39,40,Kerns,Kelly,Lockton Companies,B,2:17:12.4,2,0,M50
+519,4,5,Mitchell,Christine,AMC Theatres,C,2:17:32.2,10,0,W60
+520,46,47,Rysko,Joe,"Design Resources, Inc",G,2:17:42.9,5,0,M45
+521,6,7,Foss,Curtiss,"Associated Wholesale Grocers, Inc.",C,2:17:46.4,10,0,M65
+522,52,53,Todd,Christopher,AMC Theatres,C,2:17:52.2,3,0,M40
+523,33,34,Harrison,Jessica,"City of Kansas City, Missouri",A,2:17:55.4,0,0,W35
+524,60,61,Ford,Jason,iModules,H,2:17:56.0,2,0,M35
+525,40,41,Laytham,Todd,APEX Orthopedics and Sports Medicine Team,H,2:17:57.0,6,0,M50
+526,41,42,Schuette,Mark,Burns & McDonnell,A,2:18:00.1,0,0,M50
+527,42,43,Donnelly,Tim,SeniorVu,I,2:18:14.8,10,0,M50
+528,11,12,Spencer,Joanie,"Sosland Companies, Inc.",H,2:18:27.1,10,0,W45
+529,18,19,Camarata,Paul,"City of Kansas City, Missouri",A,2:18:28.0,0,0,M60
+530,53,54,Lowman,Chad,Fike Corporation,D,2:18:34.8,1,0,M40
+531,34,35,Shields,Tami,PRA Health Sciences,C,2:18:53.5,5,0,W35
+532,61,62,Hodges,Tim,KeyBank Real Estate Capital,D,2:18:58.0,2,0,M35
+533,26,27,Pettijohn,Brad,U.S. Army Corps of Engineers,D,2:19:03.2,2,0,M55
+534,19,20,Rice,Greg,Federal Reserve Bank of Kansas City,B,2:19:07.4,6,0,M60
+535,54,55,Butler,Kevin,H&R Block,B,2:19:27.1,4,0,M40
+536,30,31,Stodden,Bianca,Cboe Global Markets,F,2:19:30.2,6,0,W25
+537,19,20,Geoffrion,Sarah,TouchNet,G,2:19:30.9,8,0,W30
+538,19,20,Phillips,Patty,Children's Mercy Hospital,A,2:19:37.3,2,0,W40
+539,47,48,Garlitz,Dale,QTS Data Centers,I,2:19:39.0,10,0,M45
+540,20,21,Alexander,Michelle,JCPRD,F,2:19:39.3,8,0,W40
+541,62,63,Monger,Jeff,JCPRD,F,2:19:39.5,3,0,M35
+542,20,21,Curtis,Kelcey,Signal Theory,H,2:19:42.4,8,0,W30
+543,12,13,Shrestha,Reema,Cerner Corporation,A,2:19:48.3,6,0,W45
+544,43,44,Eggleston,Scott,MHC (Murphy-Hoffman Company),D,2:19:56.2,2,0,M50
+545,63,64,Niebaum,Brian,Federal Reserve Bank of Kansas City,B,2:20:23.1,1,0,M35
+546,31,32,Shelton,Anna,Fike Corporation,D,2:20:30.7,4,0,W25
+547,21,22,Merrill,Krista,Dairy Farmers of America,D,2:20:35.2,6,0,W40
+548,63,64,Matt,Hunter,Jack Henry & Associates,E,2:20:36.9,0,0,M30
+549,55,56,Hawk,Chris,BNSF Railway,A,2:20:44.2,0,0,M40
+550,27,28,lawlor,dennis,KCP&L Westar,A,2:20:44.7,1,0,M55
+551,48,49,Cheong,Kevin,Jack Henry & Associates,E,2:20:57.3,3,0,M45
+552,44,45,Walsh,Dennis,Americo,E,2:21:02.3,8,0,M50
+553,4,5,Tettambel,Jane,Black & Veatch,A,2:21:09.1,8,0,W55
+554,21,22,Doyle,Danielle,Waddell & Reed,B,2:21:26.8,5,0,W30
+555,13,14,Horton,Melissa,Stowers Institute for Medical Research,D,2:21:27.3,8,0,W45
+556,14,15,johnson,jennifer,John Deere,E,2:21:27.5,6,0,W45
+557,35,36,Schmitt,Jessica,TruHome Solutions,G,2:21:29.7,3,0,W35
+558,56,57,Clausen,John,Seaboard Foods,E,2:21:30.0,3,0,M40
+559,28,29,DeVeau,Greg,Swiss Re,D,2:21:38.8,1,0,M55
+560,49,50,Leigh,Darrel,Helzberg Diamonds,E,2:22:03.6,2,0,M45
+561,22,23,Ilhardt,Kim,"Henderson Engineers, Inc.",D,2:22:08.7,5,0,W40
+562,45,46,Isaacson,Stephen,Federal Reserve Bank of Kansas City,B,2:22:14.5,1,0,M50
+563,50,51,Combs,Jake,Travelers Insurance,E,2:22:14.6,5,0,M25
+564,32,33,Daneck-Brown,Kim,Creative Planning,E,2:22:34.2,4,0,W25
+565,23,24,Martinez,Natalie,AMC Theatres,C,2:22:39.1,5,0,W40
+566,33,34,Phillips,Christine,American Century Investments,B,2:22:41.8,5,0,W25
+567,7,8,Slone,James,Missouri Department of Transportation,C,2:23:26,8,0,M65
+568,34,35,Angle,Kelsey,Hollis+Miller Architects,H,2:23:39.9,4,0,W25
+569,29,30,McLain,Joe,UMB,A,2:23:45.7,0,0,M55
+570,64,65,Scott,Adam,HNTB Corporation,C,2:23:56.3,0,0,M30
+571,15,16,Cox,Suzanne,B.E. Smith,H,2:24:16.9,8,0,W45
+572,64,65,Cook,Scott,Amsted Rail,I,2:24:30.0,6,0,M35
+573,51,52,Cauthon,Austin,SelectQuote Insurance Services,C,2:24:51.8,4,0,M25
+574,16,17,Beattie,Shannon,Children's Mercy Hospital,A,2:24:51.9,5,0,W45
+575,57,58,Knoll,Jason,iModules,H,2:25:11.0,5,0,M40
+576,65,66,Knoll,Sean,YRC Freight,B,2:25:14.0,0,0,M35
+577,22,23,Hoelscher,Kelli,John Deere,E,2:25:18.9,5,0,W30
+578,58,59,Vishnu Yasas,Srinivasa Kalki,ScriptPro LLC,C,2:25:26.6,2,0,M40
+579,50,51,Montgomery,Mark,"City of Kansas City, Missouri",A,2:25:31.1,0,0,M45
+580,66,67,Aleshire,Jeff,Creative Planning,E,2:25:43.6,1,0,M35
+581,13,14,Fisher,Missy,SS&C DST,A,2:25:45.9,2,0,W50
+582,52,53,Bethel,Max,Service Management Group,E,2:25:51.6,4,0,M25
+583,30,31,Norris,Dave,Farmers Insurance Group,B,2:26:20.3,8,0,M55
+584,24,25,Holey,Brandy,Honeywell,A,2:26:22.5,1,0,W40
+585,23,24,Stuart,Emily,UMB,A,2:26:26.0,0,0,W30
+586,25,26,Koetters,Susan,Corbion,E,2:26:27.4,10,0,W40
+587,14,15,Novosel,Pam,Corbion,E,2:26:28.6,10,0,W50
+588,36,37,Walsh,Elizabeth,"City of Kansas City, Missouri",A,2:26:30.8,0,0,W35
+589,65,66,Thibodeaux,Corey,B.E. Smith,H,2:26:59.6,5,0,M30
+590,15,16,Foth,Becky,AMC Theatres,C,2:27:15.9,8,0,W50
+591,66,67,Modica,Anthony,KeyBank Real Estate Capital,D,2:27:18.7,0,0,M30
+592,11,12,Larscheid,Aiden,Community Blood Center,F,2:27:20.1,10,0,M20
+593,53,54,Eblen,Zachary,Community Blood Center,F,2:27:21.2,3,0,M25
+594,17,18,Lindsey,Melissa,Veterans United Home Loans,F,2:27:24.3,8,0,W45
+595,67,68,Bietau,Brad,Enterprise Rent-a-Car,D,2:27:28,0,0,M30
+596,35,36,Johnson,Melody,APEX Orthopedics and Sports Medicine Team,H,2:27:28.8,3,0,W25
+597,26,27,Underwood,Jennifer,Ferrellgas,E,2:27:31.5,8,0,W40
+598,20,21,ANDERSON,Steven,Honeywell,A,2:27:40.4,0,0,M60
+599,59,60,Dunwiddie,Bruce,SelectQuote Insurance Services,C,2:27:41.6,1,0,M40
+600,46,47,Gippner,David,Children's Mercy Hospital,A,2:27:47.1,0,0,M50
+601,18,19,Bonar,Laura,BHC RHODES,H,2:27:58.7,6,0,W45
+602,24,25,Tangpuz,Jennilee,AutoAlert,F,2:28:06.3,10,0,W30
+603,37,38,King,Allison,Children's Mercy Hospital,A,2:28:26.8,0,0,W35
+604,21,22,Johnson,Larry,APEX Orthopedics and Sports Medicine Team,H,2:28:38.9,10,0,M60
+605,19,20,Ulmer,Shelli,Hollis+Miller Architects,H,2:28:50.4,5,0,W45
+606,8,9,Little,Don,Commerce Bank,A,2:28:55.0,5,0,M65
+607,67,68,Hanna,Brandon,Creative Planning,E,2:29:11.5,0,0,M35
+608,16,17,Flores,Laura,DSI,F,2:29:12.5,8,0,W50
+609,25,26,Wergin,Sara,NorthPoint Development,F,2:29:31.4,8,0,W30
+610,5,6,Gardner,Carol,American Century Investments,B,2:30:01.1,10,0,W60
+611,26,27,Morris,Emily,North American Savings Bank,D,2:30:01.7,6,0,W30
+612,54,55,Hanson,Matt,INTL FCStone,G,2:30:04.6,0,0,M25
+613,38,39,Bingham,Jesi,Farmers Insurance Group,B,2:30:13.1,4,0,W35
+614,36,37,Huxol,Chloe,McCownGordon Construction,E,2:30:26.6,3,0,W25
+615,27,28,Newman,Angela,SelectQuote Insurance Services,C,2:30:27.7,8,0,W30
+616,39,40,Roque,Heather,Empower Retirement,C,2:30:31.9,4,0,W35
+617,55,56,Byfield,Brian,Farmers Insurance Group,B,2:30:41.5,1,0,M25
+618,17,18,Shaffer,Nilma,MRIGlobal,E,2:30:54.2,8,0,W50
+619,37,38,Laurin,Anna,Dairy Farmers of America,D,2:31:06.5,3,0,W25
+620,5,6,Olmstead,Alice,Kansas City VA Medical Center,B,2:31:30.6,10,0,W55
+621,6,7,Pfannenstiel,Kelly,Garmin International,A,2:31:42.4,6,0,W55
+622,40,41,Hill,Kati,Citoxlab,H,2:31:55.2,8,0,W35
+623,27,28,Hunkele,Brooke,TruHome Solutions,G,2:32:05.1,6,0,W40
+624,47,48,Honnur,Srikanth,Kansas City Southern,C,2:32:18.9,4,0,M50
+625,68,69,Shipley,Joshua,Andrews McMeel Universal,G,2:32:25.3,4,0,M30
+626,22,23,Donovan,Mike,Populous,E,2:32:39.7,10,0,M60
+627,68,69,Emery,Johnathan,State Street,B,2:32:57.2,0,0,M35
+628,18,19,Stahl,Sandra,Kansas City VA Medical Center,B,2:33:10.1,10,0,W50
+629,28,29,Moravec,Elaine,DSI,F,2:33:30.7,6,0,W30
+630,60,61,Gandham,Rakesh,Federal Reserve Bank of Kansas City,B,2:33:34.7,3,0,M40
+631,41,42,Spencer,Tara,Littler,E,2:33:59.4,3,0,W35
+632,29,30,Jenkins,Tanya,CommunityAmerica Credit Union,C,2:34:00.5,6,0,W30
+633,48,49,Turrel,Brian,DSI,F,2:34:19.2,1,0,M50
+634,31,32,Benton,Russell,Butler Manufacturing,D,2:34:20.4,0,0,M55
+635,69,70,LeCluyse,Patrick,"Design Resources, Inc",G,2:34:39.6,3,0,M30
+636,13,14,Mancuso,Alexa,"Design Resources, Inc",G,2:34:57.4,8,0,W20
+637,70,71,Sprenger,Jamie,"Design Resources, Inc",G,2:34:58.0,2,0,M30
+638,71,72,Jarboe,Jeremiah,INTL FCStone,G,2:35:08.9,1,0,M30
+639,23,24,mcdonald,roderick,NAIC & NIPR,D,2:35:13.9,6,0,M60
+640,61,62,NORRIS,CHARLES,DSI,F,2:35:33.8,2,0,M40
+641,24,25,Matt,John,Bank of America,D,2:35:49.6,5,0,M60
+642,19,20,Elsener,Lisa,Johnson County Community College,B,2:35:51.6,8,0,W50
+643,28,29,Greenfelder,Kerrie,Burns & McDonnell,A,2:36:04.9,0,0,W40
+644,20,21,Miller,Andrea,YRC Freight,B,2:36:12.4,6,0,W50
+645,21,22,Ridley,Joeli,Creative Planning,E,2:36:18.1,6,0,W50
+646,20,21,Franks,Cyndi,Crestwood Midstream,G,2:36:46.5,6,0,W45
+647,9,10,wetz,mark,Blue Cross and Blue Shield of Kansas City,B,2:36:55.2,10,0,M65
+648,10,11,Savery,Keith,Commerce Bank,A,2:37:06.4,4,0,M65
+649,32,33,Allen,Perry,Missouri Department of Transportation,C,2:37:49.6,6,0,M55
+650,21,22,Karr,Janti,Corbion,E,2:37:53.0,5,0,W45
+651,25,26,Geller,Kent,Jack Henry & Associates,E,2:38:09.1,8,0,M60
+652,62,63,Lemmon,Eric,Service Management Group,E,2:38:20.5,2,0,M40
+653,1,2,Freeman,Gayle,Black & Veatch,A,2:38:25.9,8,2,W65
+654,30,31,Yakubisin,Jessica,Corbion,E,2:38:26.1,4,0,W30
+655,51,52,Ladd,Michael,John Deere,E,2:38:28.0,1,0,M45
+656,69,70,Flattery,Jacob,Collins Aerospace,E,2:38:55.5,0,0,M35
+657,72,73,Hurlock,Ryan,Spectrum,C,2:39:49.1,0,0,M30
+658,38,39,Maki,Mallory,NorthPoint Development,F,2:39:50.7,5,0,W25
+659,22,23,Theobald,Susie,TruHome Solutions,G,2:39:59.4,5,0,W45
+660,70,71,Karanja,Daniel,McCownGordon Construction,E,2:40:04.4,0,0,M35
+661,7,8,Snyder,Neatha,Black & Veatch,A,2:40:24.7,5,0,W55
+662,49,50,Pinson,Jeff,Empower Retirement,C,2:40:33.1,3,0,M50
+663,31,32,Belozer,Laura,Black & Veatch,A,2:40:47.3,0,0,W30
+664,29,30,Campbell,Jerri,Littler,E,2:41:39.6,6,0,W40
+665,50,51,Hayden,Doug,SelectQuote Insurance Services,C,2:41:59.3,2,0,M50
+666,56,57,Johnson,Carl,Marine Corps Info Technology Center,H,2:42:12.8,1,0,M25
+667,71,72,Champion,Brent,Country Club Bank,D,2:43:15.4,1,0,M35
+668,57,58,Whisler,Josh,Arvest Bank,E,2:43:17.7,3,0,M25
+669,30,31,Owens,Latoya,"Clinical Reference Laboratory, Inc.",C,2:43:22.6,4,0,W40
+670,39,40,Emley,Anna,Federal Reserve Bank of Kansas City,B,2:43:49.0,4,0,W25
+671,72,73,McGee,Matthew,UMB,A,2:44:21.9,0,0,M35
+672,31,32,kokoruda,Susana,Sprint,A,2:44:25.0,0,0,W40
+673,22,23,Leonce,Marleen,"City of Kansas City, Missouri",A,2:44:59.7,1,0,W50
+674,32,33,Watrous,Monica,"Sosland Companies, Inc.",H,2:45:28.6,6,0,W30
+675,42,43,Huenefeldt,Melissa,Lockton Companies,B,2:45:29.1,3,0,W35
+676,8,9,Nachbar,Susan,Freightquote/C.H. Robinson,B,2:46:08.8,8,0,W55
+677,58,59,LeBlanc,Austin,Sprint,A,2:46:25.7,0,0,M25
+678,11,12,DeMent,Michael,HNTB Corporation,C,2:46:37.8,6,0,M65
+679,33,34,Vasquez,Joe,Freightquote/C.H. Robinson,B,2:46:48.6,6,0,M55
+680,40,41,Murphy,Sarah,SelectQuote Insurance Services,C,2:47:11.3,6,0,W25
+681,63,64,Augustine,Joe,AMC Theatres,C,2:47:49.8,0,0,M40
+682,2,3,Ippel,Pam,Sprint,A,2:48:09.4,6,1,W65
+683,43,44,Boos,Carolyn,Hoefer Wysocki,H,2:48:17.2,6,0,W35
+684,9,10,Kingsolver,Alice,Cox Automotive,C,2:48:34.9,10,0,W55
+685,73,74,Knight,Eric,HNTB Corporation,C,2:49:14.6,0,0,M35
+686,32,33,Seto,Ealey,SS&C DST,A,2:49:24.3,0,0,W40
+687,44,45,Sampson,Carin,IBT Industrial Solutions,G,2:49:32.8,2,0,W35
+688,6,7,Geller,Jill,JCPRD,F,2:49:46.7,10,0,W60
+689,52,53,Poague,Larry,Lockton Companies,B,2:50:07.6,0,0,M45
+690,23,24,Kuebler,Christina,Burns & McDonnell,A,2:50:16.4,0,0,W50
+691,23,24,Agee,Sondra,Citoxlab,H,2:53:22.4,4,0,W45
+692,45,46,De Agostino,Monica,MRIGlobal,E,2:55:25.6,2,0,W35
+693,33,34,Peal,Katy,Trabon,G,2:55:38.6,6,0,W30
+694,24,25,White,Becky,"Sosland Companies, Inc.",H,2:56:12.2,3,0,W45
+695,46,47,Cole,Ali,Olathe Health,A,2:56:47.5,0,0,W35
+696,41,42,Jaymes,Abigael,KCTV5,G,2:56:52.6,6,0,W25
+697,33,34,Hausner,Louann,John Deere,E,2:57:35.7,5,0,W40
+698,73,74,Groves,Johnathan,Mars Petcare,F,2:58:49.5,2,0,M30
+699,53,54,Knowles,Malcolm,Empower Retirement,C,3:01:20.1,0,0,M45
+700,34,35,Pitzel,John,TouchNet,G,3:04:14.2,0,0,M55
+701,7,8,Parrish,Susan,Blue Cross and Blue Shield of Kansas City,B,3:04:34.6,0,0,W60
+702,42,43,Cooley,Chelsea,Enterprise Rent-a-Car,D,3:05:54.5,0,0,W25
+703,14,15,Anderson,Michelle,McCownGordon Construction,E,3:06:59.0,0,0,W20
+704,34,35,Mosley,Rebecca,"SPX Cooling Technologies, Inc.",C,3:08:27.1,0,0,W30
+705,74,75,Meier,Matt,Intouch Solutions,D,3:08:28.2,0,0,M30
+706,35,36,Begnaud,Michael,Ferrellgas,E,3:08:37.9,0,0,M55
+707,35,36,GODFREY,ANITRA,Travelers Insurance,E,3:10:05.6,0,0,W30
+708,74,75,Dharanipragada,Raja Rao,NAIC & NIPR,D,3:19:46.3,0,0,M35
+709,8,9,Nguyen,Kieu Oanh,"City of Kansas City, Missouri",A,3:24:27.7,0,0,W60
+710,12,13,Molloy,Harold,MRIGlobal,E,3:31:14.8,0,0,M65
