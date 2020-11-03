@@ -1,4 +1,4 @@
-# Data Science Module 6: Seaborn
+# Data Science Module 7: Seaborn
 
 Seaborn is a plotting package that makes it extremely easy to plot Pandas dataframes. We will learn how to use Seaborn in two modules.
 
