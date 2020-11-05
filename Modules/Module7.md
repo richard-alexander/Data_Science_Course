@@ -1,4 +1,4 @@
-# Data Science Module 6: Seaborn
+# Data Science Module 7: Seaborn
 
 Seaborn is a plotting package that makes it extremely easy to plot Pandas dataframes. We will learn how to use Seaborn in two modules.
 
@@ -22,4 +22,4 @@ You can run a notebook cell two ways:
 
 # Answers
 
-There are many correct ways to get the right answers. After you do the homework, take a look at the [answers]() and compare to yours!
+There are many correct ways to get the right answers. After you do the homework, take a look at the [answers](https://github.com/richard-alexander/Data_Science_Course/blob/master/Seaborn/Answers/Homework2.ipynb) and compare to yours!
